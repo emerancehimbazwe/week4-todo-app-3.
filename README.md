@@ -43,12 +43,15 @@ Example tasks stored in the application's state:
 The tasks array is the application's state. When the state changes, the `render()` function updates the displayed task list.
 
 ## Screenshots
+## Screenshots
 
 ### Desktop View
-Insert your desktop screenshot here.
+
+![StudyMate desktop screenshot](screenshot-desktop.png)
 
 ### Mobile View
-Insert your mobile screenshot here.
+
+![StudyMate mobile screenshot](screenshot-mobile.png)
 
 ## Challenges and Lessons Learned
 During this project, I learned how to use JavaScript to manage an application's state and update the user interface. I practiced event handling, event delegation, and array methods to manage tasks. I learned how to use localStorage to preserve tasks, filters, and theme preferences after refreshing the page. I also learned to validate user input and display helpful error messages. I used browser DevTools to inspect JavaScript behavior and debug problems during testing. Finally, I learned to make a responsive interface using Tailwind CSS and to display task text safely using `textContent`.
