@@ -11,7 +11,7 @@ StudyMate is an interactive to-do list application that helps students organize 
 ## Project Links
 - **GitHub Repository:** https://github.com/emerancehimbazwe/week4-todo-app-3.
 - **Live Application:** https://emerancehimbazwe.github.io/week4-todo-app-3./
-- **Demo Video:** Add your 3–5 minute video link here.
+- **Demo Video:** [Add your 3–5 minute video link here.](https://drive.google.com/file/d/1YbRDb5WL_O5ENYSr37PTN-zPl4wimA_6/view?usp=sharing)
 
 ## Features
 - Add tasks using the form or Enter key.
